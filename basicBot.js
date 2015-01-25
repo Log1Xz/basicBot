@@ -193,7 +193,7 @@
             botName: "basicBot",
             language: "english",
             chatLink: "https://rawgit.com/Yemasthui/basicBot/master/lang/en.json",
-            maximumAfk: 1,
+            maximumAfk: 100000,
             afkRemoval: false,
             maximumDc: 60,
             bouncerPlus: true,
